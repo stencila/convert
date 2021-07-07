@@ -81,7 +81,7 @@
     "parse-author": "^2.0.0",
     "parse-full-name": "^1.2.5",
     "pdf-lib": "^1.16.0",
-    "plotly.js-dist": "^1.58.5",
+    "plotly.js-dist": "^2.2.1",
     "png-chunk-text": "^1.0.0",
     "png-chunks-encode": "^1.0.0",
     "png-chunks-extract": "^1.0.0",
