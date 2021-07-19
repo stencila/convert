@@ -74,7 +74,7 @@
     "json5": "^2.2.0",
     "jsonld": "^5.2.0",
     "mathjax-node": "^2.1.1",
-    "mdast-util-compact": "^3.0.0",
+    "mdast-util-compact": "^4.0.0",
     "mime": "^2.5.2",
     "minimist": "^1.2.5",
     "papaparse": "^5.3.1",
