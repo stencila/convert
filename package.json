@@ -102,7 +102,7 @@
     "unist-util-filter": "^2.0.3",
     "unist-util-map": "^2.0.1",
     "unist-util-select": "^3.0.4",
-    "vfile": "^4.2.1",
+    "vfile": "^5.0.2",
     "xlsx": "^0.17.0",
     "xml-js": "^1.6.11"
   },
