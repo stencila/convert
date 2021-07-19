@@ -1,6 +1,11 @@
 <?xml version="1.0"?>
 <article>
+<front>
+<abstract>
+<p>The abstract can contain a footnote.<fn id="note-1"><p id="footnote1">A footnote from the abstract.</p></fn></p>
+</abstract>
+</front>
 <body>
-<p>Further<fn id="note-1"><p id="Ch0.note-1">An <bold>important</bold> footnote.</p></fn> thoughts below.</p>
+<p>Further<fn id="note-2"><p id="footnote2">An <bold>important</bold> footnote.</p></fn> thoughts below.</p>
 </body>
 </article>

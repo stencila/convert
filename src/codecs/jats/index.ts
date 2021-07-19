@@ -509,7 +509,7 @@ function decodeAbstract(
   state: DecodeState
 ): stencila.Article['description'] {
   if (elem === null) return undefined
-  const ps = all(elem, 'p')
+  const ps = children(elem, 'p')
   if (ps.length === 0) return undefined
   if (ps.length === 1) {
     const content = decodeInlineContent(ps, state)
